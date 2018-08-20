@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
   "name": "InterSystems OjectScript",
-  "scopeName": "none",
+  "scopeName": "cource.cls",
   "patterns": [
     {
       "include": "#comments"
